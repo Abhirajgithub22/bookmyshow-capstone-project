@@ -26,8 +26,8 @@ Before running the project, make sure you have the following prerequisites insta
 1. Clone the repository from GitHub:
 
 ```
-git clone 
-cd alma_cap_bookmyshow
+git clone https://github.com/Abhirajgithub22/bookmyshow-capstone-project.git
+cd bookmyshow-capstone-project
 ```
 
 2. Install the required dependencies:
