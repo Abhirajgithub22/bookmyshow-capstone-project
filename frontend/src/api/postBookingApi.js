@@ -2,7 +2,7 @@
 const postBookingApi = async (data) => {
   try {
     // Send a POST request to the "/api/booking" endpoint
-    const response = await fetch( "http://localhost:8080/api/booking", {
+    const response = await fetch( "https://bookmyshow-ss.onrender.com/api/booking", {
       method: "POST",
       headers: {
         "Content-Type": "application/json", // Set the content type for the request
