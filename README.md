@@ -85,11 +85,6 @@ Frontend:- [https://bookmyshow-capstone-project-vqsp-1xym5ypll-abhirajgithub22.v
 
 Backend:- [https://bookmyshow-ss.onrender.com/api/booking](https://bookmyshow-ss.onrender.com/api/booking)
 
-
-## License
-
-The BookMyShow project is licensed under the MIT License. You can find the license details in the [LICENSE](LICENSE) file.
-
 ---
 
 Thank you for using BookMyShow! If you have any questions or need further assistance, feel free to contact us or open an issue in the repository. Happy movie booking!
