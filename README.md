@@ -79,6 +79,12 @@ The BookMyShow project uses the following technologies:
 - Babel for transpiling modern JavaScript code for better browser compatibility.
 - React for building the user interface.
 
+## Deployment links 
+
+Frontend:- [https://bookmyshow-capstone-project-vqsp-1xym5ypll-abhirajgithub22.vercel.app/](https://bookmyshow-capstone-project-vqsp-1xym5ypll-abhirajgithub22.vercel.app/)
+
+Backend:- [https://bookmyshow-ss.onrender.com/api/booking](https://bookmyshow-ss.onrender.com/api/booking)
+
 
 ## License
 
